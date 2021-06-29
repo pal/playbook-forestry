@@ -24,5 +24,6 @@ fields:
     required: false
   label: permalink
 pages:
+- docs/Management/management-roles.md
 - docs/configuration/configuration.md
 - docs/navigation-structure.md
