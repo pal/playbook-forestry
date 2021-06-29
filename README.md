@@ -35,7 +35,7 @@ bundle exec jekyll serve
 
 ### Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio/just-the-docs-jekyll-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/pal/playbook-forestry)
 
 1. Set the build command to: `jekyll build`
 2. Set the publish directory to: `_site`
@@ -44,7 +44,7 @@ That's it, now your site gets deployed automatically on `git push` or when savin
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/forestryio/just-the-docs-jekyll-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/pal/playbook-forestry)
 
 Follow the steps.
 
