@@ -11,6 +11,12 @@ published: false
 In order to make it really easy and streamlined to use and edit the Playbook, it’s imperative to have a strong and simple technical solution running things.
 
     http://prose.io/#{{site.repo}}/edit/{{site.branch}}/{{ page.path }}
+    
+    {{site}}
+    
+    {{page}}
+    
+    https://app.forestry.io/sites/gq2h-kzlgbc-7g/#/pages/docs-management-management-roles-md/
 
 [frog-budgeting.pdf](/assets/images/frog-budgeting.pdf "frog-budgeting.pdf")
 
