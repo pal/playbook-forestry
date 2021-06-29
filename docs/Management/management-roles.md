@@ -10,6 +10,8 @@ published: false
 
 In order to make it really easy and streamlined to use and edit the Playbook, it’s imperative to have a strong and simple technical solution running things.
 
+    http://prose.io/#{{site.repo}}/edit/{{site.branch}}/{{ page.path }}
+
 [frog-budgeting.pdf](/assets/images/frog-budgeting.pdf "frog-budgeting.pdf")
 
 ![](/assets/images/frozen-2-maze-printable.jpg)
